@@ -1,0 +1,33 @@
+.footer {
+    background-color: #353535;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.logo  p {
+    color: #dddddd;
+    font-size: 13px;
+    padding-top: 30px;
+    line-height: 24px;
+}
+.contact p{
+    color: #dddddd;
+    font-size: 13px;
+}
+.contact h2{
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    margin-top: 15px;
+}
+.contact a {
+    text-decoration: none;
+    color: #fff;
+}
+.account a{
+    font-size: 13px;
+    text-decoration: none;
+    color: #dddddd;
+}
